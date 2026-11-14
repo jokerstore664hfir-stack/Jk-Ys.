@@ -1,0 +1,37 @@
+{
+  "maintenance": {
+    "active": false,
+    "message": "We are upgrading our systems."
+  },
+  "telegram": "https://t.me/YourTelegramProfile",
+  "developers": {
+    "JK×YS-DEV-0001-0001": {
+      "role": "developer",
+      "max_devices": 99,
+      "created_at": 1735689600
+    }
+  },
+  "resellers": {
+    "JK×YS-RES-0001-0001": {
+      "max_devices": 5,
+      "created_at": 1735689600,
+      "expires_at": 0
+    }
+  },
+  "keys": {
+    "JK×YS-AAAA-BBBB-CCCC": {
+      "max_devices": 1,
+      "created_at": 1735689600,
+      "duration_days": 30,
+      "expires_at": 1738281600,
+      "devices": []
+    },
+    "JK×YS-TEST-1234-5678": {
+      "max_devices": 2,
+      "created_at": 1735689600,
+      "duration_days": 7,
+      "expires_at": 1736294400,
+      "devices": []
+    }
+  }
+}
